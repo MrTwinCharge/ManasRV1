@@ -1,0 +1,5 @@
+ManasRV1
+
+MRV1 - No OoO, pipelined
+
+RV64G Base ISA + Custom ML Extensions
